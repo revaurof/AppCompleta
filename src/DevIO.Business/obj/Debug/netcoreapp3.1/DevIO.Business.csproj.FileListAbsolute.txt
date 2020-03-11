@@ -1,0 +1,7 @@
+D:\AppAvancada\AppMvcCompleta\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.deps.json
+D:\AppAvancada\AppMvcCompleta\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+D:\AppAvancada\AppMvcCompleta\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+D:\AppAvancada\AppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfoInputs.cache
+D:\AppAvancada\AppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfo.cs
+D:\AppAvancada\AppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.dll
+D:\AppAvancada\AppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.pdb
