@@ -5,3 +5,11 @@ D:\AppAvancada\AppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.B
 D:\AppAvancada\AppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfo.cs
 D:\AppAvancada\AppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.dll
 D:\AppAvancada\AppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.pdb
+E:\GIT\Pessoal\AppCompleta\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.deps.json
+E:\GIT\Pessoal\AppCompleta\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+E:\GIT\Pessoal\AppCompleta\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+E:\GIT\Pessoal\AppCompleta\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csprojAssemblyReference.cache
+E:\GIT\Pessoal\AppCompleta\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfoInputs.cache
+E:\GIT\Pessoal\AppCompleta\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfo.cs
+E:\GIT\Pessoal\AppCompleta\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.dll
+E:\GIT\Pessoal\AppCompleta\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.pdb

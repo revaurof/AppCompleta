@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AppAvancada\\AppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj": {}
+    "E:\\GIT\\Pessoal\\AppCompleta\\src\\DevIO.Data\\DevIO.Data.csproj": {}
   },
   "projects": {
-    "D:\\AppAvancada\\AppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
+    "E:\\GIT\\Pessoal\\AppCompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AppAvancada\\AppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "projectUniqueName": "E:\\GIT\\Pessoal\\AppCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
         "projectName": "DevIO.Business",
-        "projectPath": "D:\\AppAvancada\\AppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
-        "packagesPath": "C:\\Users\\renatorv\\.nuget\\packages\\",
-        "outputPath": "D:\\AppAvancada\\AppMvcCompleta\\src\\DevIO.Business\\obj\\",
+        "projectPath": "E:\\GIT\\Pessoal\\AppCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
+        "outputPath": "E:\\GIT\\Pessoal\\AppCompleta\\src\\DevIO.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\renatorv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,24 +55,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\AppAvancada\\AppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj": {
+    "E:\\GIT\\Pessoal\\AppCompleta\\src\\DevIO.Data\\DevIO.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AppAvancada\\AppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
+        "projectUniqueName": "E:\\GIT\\Pessoal\\AppCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
         "projectName": "DevIO.Data",
-        "projectPath": "D:\\AppAvancada\\AppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
-        "packagesPath": "C:\\Users\\renatorv\\.nuget\\packages\\",
-        "outputPath": "D:\\AppAvancada\\AppMvcCompleta\\src\\DevIO.Data\\obj\\",
+        "projectPath": "E:\\GIT\\Pessoal\\AppCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
+        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
+        "outputPath": "E:\\GIT\\Pessoal\\AppCompleta\\src\\DevIO.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\renatorv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -85,8 +85,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\AppAvancada\\AppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
-                "projectPath": "D:\\AppAvancada\\AppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj"
+              "E:\\GIT\\Pessoal\\AppCompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
+                "projectPath": "E:\\GIT\\Pessoal\\AppCompleta\\src\\DevIO.Business\\DevIO.Business.csproj"
               }
             }
           }
@@ -134,7 +134,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

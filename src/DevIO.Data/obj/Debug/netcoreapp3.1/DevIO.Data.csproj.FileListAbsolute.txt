@@ -11,3 +11,16 @@ D:\AppAvancada\AppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.
 D:\AppAvancada\AppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CopyComplete
 D:\AppAvancada\AppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.dll
 D:\AppAvancada\AppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.pdb
+E:\GIT\Pessoal\AppCompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.deps.json
+E:\GIT\Pessoal\AppCompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.runtimeconfig.json
+E:\GIT\Pessoal\AppCompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.runtimeconfig.dev.json
+E:\GIT\Pessoal\AppCompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.dll
+E:\GIT\Pessoal\AppCompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.pdb
+E:\GIT\Pessoal\AppCompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+E:\GIT\Pessoal\AppCompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+E:\GIT\Pessoal\AppCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csprojAssemblyReference.cache
+E:\GIT\Pessoal\AppCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfoInputs.cache
+E:\GIT\Pessoal\AppCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfo.cs
+E:\GIT\Pessoal\AppCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CopyComplete
+E:\GIT\Pessoal\AppCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.dll
+E:\GIT\Pessoal\AppCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.pdb

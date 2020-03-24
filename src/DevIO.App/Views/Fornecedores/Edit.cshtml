@@ -34,16 +34,35 @@
                 </label>
             </div>
             <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-primary" />
+                <input type="submit" value="Salvar" class="btn btn-primary" />
             </div>
         </form>
     </div>
 </div>
-
+<div id="EnderecoTarget">
+    <partial name="_DetalhesEndereco" />
+</div>
+<hr />
+<h4>Produtos</h4>
 <div>
-    <a asp-action="Index">Back to List</a>
+    <partial name="../Produtos/_ListaProdutos" model="@Model.Produtos" />
+</div>
+
+<div id="myModal" class="modal fade in">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div id="myModalContent"></div>
+        </div>
+    </div>
 </div>
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+<script>
+    $(document).ready(function () {
+        AjaxModal();
+    });
+</script>
+
 }
