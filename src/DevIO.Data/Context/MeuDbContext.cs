@@ -17,12 +17,13 @@ namespace DevIO.Data.Context
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            //foreach(var property in modelBuilder.Model.GetEntityTypes()
-            //    .SelectMany(e=>e.GetProperties()
-            //    .Where(p=>p.ClrType ==typeof(string))))
-            //    property.Relational().Coll
+            
+        //foreach(var property in modelBuilder.Model.GetEntityTypes()
+        //    .SelectMany(e=>e.GetProperties()
+        //    .Where(p=>p.ClrType ==typeof(string))))
+        //    property.Relational().Coll
 
-            modelBuilder.ApplyConfigurationsFromAssembly(typeof(MeuDbContext).Assembly);
+        modelBuilder.ApplyConfigurationsFromAssembly(typeof(MeuDbContext).Assembly);
 
             foreach (var relationship in modelBuilder.Model.GetEntityTypes().SelectMany(e => e.GetForeignKeys())) relationship.DeleteBehavior = DeleteBehavior.ClientSetNull;
 

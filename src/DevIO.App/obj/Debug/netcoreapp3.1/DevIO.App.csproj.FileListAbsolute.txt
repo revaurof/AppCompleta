@@ -385,3 +385,6 @@ E:\GIT\Pessoal\AppCompleta\src\DevIO.App\obj\Debug\netcoreapp3.1\DevIO.App.pdb
 E:\GIT\Pessoal\AppCompleta\src\DevIO.App\obj\Debug\netcoreapp3.1\Razor\Views\Fornecedores\_DetalhesEndereco.cshtml.g.cs
 E:\GIT\Pessoal\AppCompleta\src\DevIO.App\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\_ListaProdutos.cshtml.g.cs
 E:\GIT\Pessoal\AppCompleta\src\DevIO.App\obj\Debug\netcoreapp3.1\Razor\Views\Fornecedores\_AtualizarEndereco.cshtml.g.cs
+E:\GIT\Pessoal\AppCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\appsettings.Production.json
+E:\GIT\Pessoal\AppCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\FluentValidation.dll
+E:\GIT\Pessoal\AppCompleta\src\DevIO.App\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Summary\Default.cshtml.g.cs
